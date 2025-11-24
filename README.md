@@ -41,9 +41,9 @@ This helps understand how well the model learned the pattern and whether adjustm
 
 ### PROGRAM
 
-**Name:Madhan Kumar J**
+**Name:Dhanush G**
 
-**Register Number:2305001016**
+**Register Number:2305002006**
 
 ~~~
 import numpy as np
